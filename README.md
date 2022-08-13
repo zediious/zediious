@@ -13,6 +13,6 @@ I still have a long way until I have reached a level I want, but you do have to 
 <hr>
 
 - 👀 I’m interested in ... Full-Stack web development | Minecraft Mods | Server-Side apps
-- 🌱 I’m currently learning ... Back-End web stack | Node.js | Java | Python/Django
+- 🌱 I’m currently learning ... Back-End web stack | Node.js | Java/Spring | Python/Django
 - 💞️ I’m looking to collaborate on ... Nothing in particular, anything at all.
 - 📫 How to reach me ... Email: shadowraptormc@gmail.com | Discord: Zediious#0306
