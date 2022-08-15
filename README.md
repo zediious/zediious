@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <h1>Hello! I am Zediious</h1>
   <h3>I run ShadowRaptor, a Modded Minecraft server network. Check us out at <a href="https://www.shadowraptornetwork.com/">our website!</a></h3>
   
@@ -19,4 +19,11 @@ I still have a long way until I have reached a level I want, but you do have to 
 - 🌱 I’m currently learning ... Back-End web stack | Node.js | Java/Spring | Python/Django
 - 💞️ I’m looking to collaborate on ... Nothing in particular, anything at all.
 
-<a href="mailto:shadowraptormc@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=shadowraptormc@gmail.com&color=orange&style=for-the-badge"></img></a> <img src="https://img.shields.io/static/v1?label=Discord&message=Zediious 0306&color=purple&style=for-the-badge"></img>
+<hr>
+
+<div align="center">
+  <a href="mailto:shadowraptormc@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=shadowraptormc@gmail.com&color=orange&style=for-the-badge">   </img></a> <img src="https://img.shields.io/static/v1?label=Discord&message=Zediious 0306&color=purple&style=for-the-badge"></img>
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=zediious"></img>
+</div>
