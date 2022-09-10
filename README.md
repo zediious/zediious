@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello! I am Zediious</h1>
-  <h3>I run ShadowRaptor, a Modded Minecraft server network. Check us out at <a href="https://www.shadowraptornetwork.com/">our website!</a></h3>
+  <h3>I run ShadowRaptor, a Modded Minecraft server network. Check us out at <a href="https://www.shadowraptor.net/">our website!</a></h3>
   
   <a href="https://discord.com/invite/GEhyhku"><img src="https://img.shields.io/static/v1?label=Discord&message=Join ShadowRaptor!&color=purple&style=for-the-badge&logo=discord"></img></a>
 </div>
