@@ -7,13 +7,13 @@
 
 <hr>
 
-For a long time, I did not attempt to truly educate myself in Software Development, it felt like something that was simply out of my reach. I have been diving deep into learning, and one thing I can tell anyone else who is on the fence, you absolutely CAN DO THIS!
+For a long time, I did not attempt to truly educate myself in Software Development, it felt like something that was simply out of my reach. I have been diving deep into learning, and one thing I can tell anyone who is on the fence is that you absolutely CAN DO THIS!
 
 I still have a long way until I have reached a level I want, but you do have to start to get somewhere!
 
 <hr>
 
-- 👀 I’m interested in ... 75% stack web developmemt, automation tools/apps, Minecraft mods
+- 👀 I’m interested in ... 75% stack web development, automation tools/apps, Minecraft mods
 - 🌱 I’m currently learning ... Back-End web stack, Python/Django, custom authentication backends, Minecraft mods
 - 💞️ I’m looking to collaborate on ... Anything at all! If you think I could provide something to your project, definitely let me know 😉
 
