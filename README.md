@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Hello! I am Zediious</h1>
-  <h3>I run ShadowRaptor, a Modded Minecraft server network. Check us out at <a href="https://www.shadowraptor.net/">our website!</a></h3>
-  <h3>I also maintain a Wabbajack mod list for Skyrim, <a href="https://github.com/zediious/tpfz-sprinkles/">check it out here!</a></h3>
+  I run ShadowRaptor, a Modded Minecraft server network. Check us out at <a href="https://www.shadowraptor.net/">our website!</a>
+  
+  I also maintain a Wabbajack mod list for Skyrim, <a href="https://github.com/zediious/tpfz-sprinkles/">check it out here!</a>
   
   <a href="https://discord.com/invite/GEhyhku"><img src="https://img.shields.io/static/v1?label=Discord&message=Join ShadowRaptor!&color=purple&style=for-the-badge&logo=discord"></img></a>
 </div>
@@ -14,8 +15,8 @@ I still have a long way until I have reached a level I want, but you do have to 
 
 <hr>
 
-- 👀 I’m interested in ... 75% stack web development, automation tools/apps, Minecraft mods
-- 🌱 I’m currently learning ... Back-End web stack, Python/Django, custom authentication backends, Minecraft mods
+- 👀 I’m interested in ... Full stack web development, automation tools for server management, Minecraft mods
+- 🌱 I’m currently learning ... Creating Single Page Applications with only Django and HTMX (maybe a little JS here and there)
 - 💞️ I’m looking to collaborate on ... Anything at all! If you think I could provide something to your project, definitely let me know 😉
 
 <hr>
