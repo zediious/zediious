@@ -15,14 +15,14 @@ I still have a long way until I have reached a level I want, but you do have to 
 
 <hr>
 
-- 👀 I’m interested in ... Full stack web development, automation tools for server management, Minecraft mods
+- 👀 I’m interested in ... Full stack web application development, automation tools for server management, Minecraft mods
 - 🌱 I’m currently learning ... Integrating payment gateways into applications to take payments
 - 💞️ I’m looking to collaborate on ... Anything at all! If you think I could provide something to your project, definitely let me know 😉
 
 <hr>
 
 <div align="center">
-  <a href="mailto:shadowraptormc@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=shadowraptormc@gmail.com&color=orange&style=for-the-badge">   </img></a> <img src="https://img.shields.io/static/v1?label=Discord&message=Zediious 0306&color=purple&style=for-the-badge"></img>
+  <a href="mailto:shadowraptormc@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=shadowraptormc@gmail.com&color=orange&style=for-the-badge">   </img></a> <img src="https://img.shields.io/static/v1?label=Discord&message=Zediious&color=purple&style=for-the-badge"></img>
   <br>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=zediious"></img>
