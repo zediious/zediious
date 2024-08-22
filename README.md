@@ -16,8 +16,8 @@ I still have a long way until I have reached a level I want, but you do have to 
 
 <hr>
 
-- 👀 I’m interested in ... Full stack web application development, automation tools for server management, Minecraft mods
-- 🌱 I’m currently learning ... Integrating payment gateways into applications to take payments
+- 👀 I’m interested in ... Full stack web application development, automation tools for server management, Skyrim and Minecraft mods
+- 🌱 I’m currently learning ... How to create Skyrim SKSE plugin-based mods in C++ off of CommonLibSSE-NG
 - 💞️ I’m looking to collaborate on ... Anything at all! If you think I could provide something to your project, definitely let me know 😉
 
 <hr>
