@@ -2,7 +2,7 @@
   <h1>Hello! I am Zediious</h1>
   I run ShadowRaptor, a Modded Minecraft server network. Check us out at <a href="https://www.shadowraptor.net/">our website!</a>
   
-  I also maintain a Wabbajack mod list for Skyrim, <a href="https://github.com/zediious/tpfz-sprinkles/">check it out here!</a>
+  I also maintain a Wabbajack mod list for Skyrim, <a href="https://aurbaesence.info/">check it out here!</a>
   
   <a href="https://discord.com/invite/GEhyhku"><img src="https://img.shields.io/static/v1?label=Discord&message=Join ShadowRaptor!&color=purple&style=for-the-badge&logo=discord"></img></a>
   <a href="https://discord.gg/CvhTeavrcW"><img src="https://img.shields.io/static/v1?label=Discord&message=Join Zediious Modding!&color=purple&style=for-the-badge&logo=discord"></img></a>
