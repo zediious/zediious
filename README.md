@@ -22,7 +22,4 @@ I still have a long way until I have reached a level I want, but you do have to 
 
 <div align="center">
   <a href="mailto:shadowraptormc@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=shadowraptormc@gmail.com&color=orange&style=for-the-badge">   </img></a> <img src="https://img.shields.io/static/v1?label=Discord&message=Zediious&color=purple&style=for-the-badge"></img>
-  <br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=zediious"></img>
 </div>
